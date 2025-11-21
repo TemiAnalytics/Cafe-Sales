@@ -1,4 +1,4 @@
-# Cafe-Sales Using SQL
+# Cafe-Sales
 
 # ☕ Café Sales Data Cleaning & Analysis (MySQL Project)
 
